@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(240, 218, 222);
+}
+       
+h1 {
+    color: purple;
+    text-decoration-line: overline;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+    
+}
+    p{
+        font-size: 25px;
+    }
